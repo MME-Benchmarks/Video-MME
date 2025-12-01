@@ -70,8 +70,8 @@ If there is any infringement in Video-MME, please email videomme2024@gmail.com a
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify Video-MME in whole or in part. 
 You must strictly comply with the above restrictions.
 ```
+[Data Download](https://huggingface.co/datasets/lmms-lab/Video-MME/tree/main), [Annotation](https://huggingface.co/datasets/lmms-lab/Video-MME), [Evaluation Pipeline](https://github.com/MME-Benchmarks/Video-MME?tab=readme-ov-file#-evaluation-pipeline)
 
-Please send an email to **videomme2024@gmail.com**. 🌟
 
 
 ## 🔮 Evaluation Pipeline
