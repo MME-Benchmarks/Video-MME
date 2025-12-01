@@ -70,7 +70,10 @@ If there is any infringement in Video-MME, please email videomme2024@gmail.com a
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify Video-MME in whole or in part. 
 You must strictly comply with the above restrictions.
 ```
-[Data Download](https://huggingface.co/datasets/lmms-lab/Video-MME/tree/main), [Annotation](https://huggingface.co/datasets/lmms-lab/Video-MME), [Evaluation Pipeline](https://github.com/MME-Benchmarks/Video-MME?tab=readme-ov-file#-evaluation-pipeline)
+[Data Download](https://huggingface.co/datasets/lmms-lab/Video-MME/tree/main), [Annotation](https://huggingface.co/datasets/lmms-lab/Video-MME), [Evaluation Pipeline](https://github.com/MME-Benchmarks/Video-MME?tab=readme-ov-file#-evaluation-pipeline)  
+
+You could choose to directly use evaluation tools [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) or [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval).
+
 
 
 
@@ -182,18 +185,18 @@ If you want to add your model to our [leaderboard](https://video-mme.github.io/h
 If you find our work helpful for your research, please consider citing our work.   
 
 ```bibtex
-@article{fu2024video,
-  title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis},
-  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yondong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and others},
-  journal={arXiv preprint arXiv:2405.21075},
-  year={2024}
+@inproceedings{fu2025video,
+  title={Video-mme: The first-ever comprehensive evaluation benchmark of multi-modal llms in video analysis},
+  author={Fu, Chaoyou and Dai, Yuhan and Luo, Yongdong and Li, Lei and Ren, Shuhuai and Zhang, Renrui and Wang, Zihan and Zhou, Chenyu and Shen, Yunhang and Zhang, Mengdan and others},
+  booktitle={CVPR},
+  year={2025}
 }
 
-@article{fu2023mme,
-  title={MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models},
+@inproceedings{fu2025mme,
+  title={Mme: A comprehensive evaluation benchmark for multimodal large language models},
   author={Fu, Chaoyou and Chen, Peixian and Shen, Yunhang and Qin, Yulei and Zhang, Mengdan and Lin, Xu and Yang, Jinrui and Zheng, Xiawu and Li, Ke and Sun, Xing and others},
-  journal={arXiv preprint arXiv:2306.13394},
-  year={2023}
+  booktitle={NeurIPS Datasets and Benchmarks Track},
+  year={2025}
 }
 
 @article{fu2024mme,
