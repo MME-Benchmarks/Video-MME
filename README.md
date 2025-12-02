@@ -72,7 +72,7 @@ You must strictly comply with the above restrictions.
 ```
 [Data Download](https://huggingface.co/datasets/lmms-lab/Video-MME/tree/main), [Annotation](https://huggingface.co/datasets/lmms-lab/Video-MME), [Evaluation Pipeline](https://github.com/MME-Benchmarks/Video-MME?tab=readme-ov-file#-evaluation-pipeline)  
 
-You could choose to directly use evaluation tools [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) or [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval).
+You could choose to directly use tools like [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) and [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) to evaluate your models on Video-MME.
 
 
 
