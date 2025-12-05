@@ -70,7 +70,7 @@ If there is any infringement in Video-MME, please email videomme2024@gmail.com a
 Without prior approval, you cannot distribute, publish, copy, disseminate, or modify Video-MME in whole or in part. 
 You must strictly comply with the above restrictions.
 ```
-[Data](https://huggingface.co/datasets/lmms-lab/Video-MME/tree/main) and [Annotation](https://huggingface.co/datasets/lmms-lab/Video-MME) provided by LMMS-Lab, and [Evaluation Pipeline](https://github.com/MME-Benchmarks/Video-MME?tab=readme-ov-file#-evaluation-pipeline)  
+[Data](https://huggingface.co/datasets/lmms-lab/Video-MME/tree/main) and [Annotation](https://huggingface.co/datasets/lmms-lab/Video-MME) provided by LMMS-Lab, and [Evaluation Pipeline](https://github.com/MME-Benchmarks/Video-MME?tab=readme-ov-file#-evaluation-pipeline).  
 
 You could choose to directly use tools like [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) and [LMMs-Eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) to evaluate your models on Video-MME.
 
