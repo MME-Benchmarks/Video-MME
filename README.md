@@ -11,7 +11,7 @@
     <img src="./asset/name_logo.jpg" width="100%" height="100%">
 </p>
 
-<font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 arXiv Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)] [[📖 MME-Survey](https://arxiv.org/pdf/2411.15296)] [[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://video-mme.github.io/)] [[📖 Paper](https://arxiv.org/pdf/2405.21075)] [[📊 Dataset](https://github.com/BradyFU/Video-MME?tab=readme-ov-file#-dataset)] [[📖 MME-Survey](https://arxiv.org/pdf/2411.15296)] [[🏆 Leaderboard](https://video-mme.github.io/home_page.html#leaderboard)]  </div></font>
 
 Video-MME applies to both **image MLLMs**, i.e., generalizing to multiple images, and **video MLLMs**. 🌟
 
