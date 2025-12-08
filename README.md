@@ -21,6 +21,7 @@ We are very proud to launch [**MME-Survey**](https://arxiv.org/pdf/2411.15296) (
 ---
 
 ## 🔥 News
+* **`2025.12.05`** 🌟 [**Gemini 3 Pro**](https://blog.google/technology/developers/gemini-3-pro-vision/) has used our Video-MME as the benchmark of video.
 * **`2025.08.07`** 🌟 [**GPT-5**](https://openai.com/zh-Hans-CN/index/introducing-gpt-5-for-developers/) has used our Video-MME as the benchmark of multimodal long context.
 * **`2025.05.06`** 🌟 [**Gemini 2.5 Pro**](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/) has used our Video-MME as the benchmark of video understanding: "Gemini 2.5 Pro delivers state-of-the-art video understanding, scoring 84.8% on the VideoMME benchmark".
 * **`2025.04.14`** 🌟 Video-MME has been introduced and used by [**OpenAI GPT-4.1**](https://openai.com/index/gpt-4-1/)  as an **"industry standard measure"** of multimodal long context ability.
